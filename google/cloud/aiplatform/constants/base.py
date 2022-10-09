@@ -35,6 +35,7 @@ SUPPORTED_REGIONS = {
     "us-central1",
     "us-east1",
     "us-east4",
+    "us-west3",
     "us-west1",
     "us-west2",
     "us-west4",
